@@ -71,4 +71,4 @@ class Maze(list):
         MazePicture.show()
 
 
-Maze(250)
+Maze(333)
